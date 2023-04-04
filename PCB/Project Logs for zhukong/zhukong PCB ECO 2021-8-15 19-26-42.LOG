@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=MCU_VIN Pin=C1-1
+Removed Pin From Net: NetName=5V Pin=C10-1
+Removed Pin From Net: NetName=5V Pin=LP1-1
+Removed Pin From Net: NetName=5V Pin=LP1-3
+Removed Pin From Net: NetName=MCU_VIN Pin=R3-2
+Removed Pin From Net: NetName=MCU_VIN Pin=SWD-1
+Added Pin To Net: NetName=3V3 Pin=C1-1
+Added Pin To Net: NetName=MCU_VIN Pin=C10-1
+Added Pin To Net: NetName=MCU_VIN Pin=LP1-1
+Added Pin To Net: NetName=MCU_VIN Pin=LP1-3
+Added Pin To Net: NetName=3V3 Pin=R3-2
+Added Pin To Net: NetName=3V3 Pin=SWD-1

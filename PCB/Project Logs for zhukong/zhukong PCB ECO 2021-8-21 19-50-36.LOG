@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=114-2
+Removed Pin From Net: NetName=GND Pin=DUOJI  pwm-3
+Added Component: Designator=R16(R0805_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=DUOJI  pwm-2
+Added Pin To Net: NetName=GND Pin=-15
+Added Pin To Net: NetName=GND Pin=-3
+Added Pin To Net: NetName=PA11 Pin=R16-1
+Added Pin To Net: NetName=GND Pin=R16-2
+Change Net Name : Old Net Name=GND New Net Name=KEY_G
+Added Pin To Net: NetName=DUOJI_VOUT Pin=DUOJI  pwm-3
+Added Pin To Net: NetName=DUOJI_VOUT Pin=-2
+Added Net: Name=DUOJI_VOUT

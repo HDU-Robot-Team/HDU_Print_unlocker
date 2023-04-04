@@ -1,0 +1,10 @@
+Added Component: Designator=D4(SMC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "属性"; Value = "40V/5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD2_1 Pin=D4-1
+Added Pin To Net: NetName=OLED_VIN Pin=D4-2
+Added Pin To Net: NetName=OLED_VIN Pin=JP2-2
+Added Net: Name=OLED_VIN
+Added Member To Class: ClassName=zhukong Member=Component D4 SS54

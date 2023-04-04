@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=PB5 Pin=MCU-41
+Added Pin To Net: NetName=PB5 Pin=R5-1
+Added Net: Name=PB5
+Added Pin To Net: NetName=PB10 Pin=MCU-21
+Added Pin To Net: NetName=PB10 Pin=R12-1
+Added Net: Name=PB10

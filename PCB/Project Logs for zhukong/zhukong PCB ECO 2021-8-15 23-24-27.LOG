@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=7.5V Pin=7.5V-1
+Removed Pin From Net: NetName=7.5V Pin=R8-2
+Removed Member From Class: ClassName=zhukong Member=7.5V
+Removed Member From Class: ClassName=zhukong Member=R8
+Added Pin To Net: NetName=7.5V Pin=Q2-2
+Added Pin To Net: NetName=7.5V Pin=V-1
+Change Net Name : Old Net Name=7.5V New Net Name=VIN

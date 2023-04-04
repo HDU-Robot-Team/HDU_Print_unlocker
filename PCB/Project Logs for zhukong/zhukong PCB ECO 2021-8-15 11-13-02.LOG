@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=3V3 Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=SWD-1
+Removed Pin From Net: NetName=SWCLK Pin=SWD-2
+Removed Pin From Net: NetName=SWDIO Pin=SWD-3
+Removed Pin From Net: NetName=3V3 Pin=SWD-4
+Added Pin To Net: NetName=MCU_VIN Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=MCU_VIN Pin=SWD-1
+Added Pin To Net: NetName=SWDIO Pin=SWD-2
+Added Pin To Net: NetName=SWCLK Pin=SWD-3
+Added Pin To Net: NetName=GND Pin=SWD-4

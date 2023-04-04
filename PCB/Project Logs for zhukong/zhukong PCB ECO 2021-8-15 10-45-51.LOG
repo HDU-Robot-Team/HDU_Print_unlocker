@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=Q1 Old DesignItemId=2SK3615 New DesignItemId=IRF3710
+Change Component Description : Designator=Q1 Old Description=N沟场效应管 New Description=N沟道 100V/57A
+Change component parameters: Designator = "Q1"; Footprint = "TO252"; UniqueID = "\IWKHJLHK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "N沟场效应管"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
